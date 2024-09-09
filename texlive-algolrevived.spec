@@ -1,6 +1,6 @@
 Name:		texlive-algolrevived
-Version:	56864
-Release:	2
+Version:	71368
+Release:	1
 Summary:	A revival of Frutiger's Algol alphabet
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/algolrevived
